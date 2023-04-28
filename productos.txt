@@ -1,0 +1,92 @@
+[
+ {
+  "title": "Mania de futsal",
+  "description": "Rodilleras negras",
+  "price": 20000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc123",
+  "stock": 20,
+  "id": 1
+ },
+ {
+  "title": "Asics",
+  "description": "Rodilleras blancas",
+  "price": 30000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc124",
+  "stock": 15,
+  "id": 2
+ },
+ {
+  "title": "Reusch",
+  "description": "Rodilleras soft negras",
+  "price": 10000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc125",
+  "stock": 30,
+  "id": 3
+ },
+ {
+  "title": "Adidas",
+  "description": "Coderas negras",
+  "price": 10000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc126",
+  "stock": 15,
+  "id": 4
+ },
+ {
+  "title": "Sonder",
+  "description": "Coderas negras",
+  "price": 20000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc127",
+  "stock": 15,
+  "id": 5
+ },
+ {
+  "title": "Topper",
+  "description": "Coderas negras",
+  "price": 15000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc128",
+  "stock": 15,
+  "id": 6
+ },
+ {
+  "title": "Kion",
+  "description": "Coderas negras",
+  "price": 17000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc129",
+  "stock": 15,
+  "id": 7
+ },
+ {
+  "title": "Reebok",
+  "description": "Coderas negras",
+  "price": 20000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc130",
+  "stock": 15,
+  "id": 8
+ },
+ {
+  "title": "Nike",
+  "description": "Coderas negras",
+  "price": 10000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc131",
+  "stock": 15,
+  "id": 9
+ },
+ {
+  "title": "Umbro",
+  "description": "Coderas negras",
+  "price": 10000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc132",
+  "stock": 15,
+  "id": 10
+ }
+]
